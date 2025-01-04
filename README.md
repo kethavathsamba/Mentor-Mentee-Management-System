@@ -27,5 +27,5 @@ A simple Python-based application for managing mentor-mentee relationships using
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/mentor-mentee-management.git
+   git clone https://github.com/kethavathsamba/mentor-mentee-management.git
    cd mentor-mentee-management
